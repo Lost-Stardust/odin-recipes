@@ -10,4 +10,8 @@
     margin: 30px;
     margin-right: 160px;
     margin-left: 160px;
+    font-size: large;
+}
+.recipe-list {
+    font-size: x-large;   
 }
