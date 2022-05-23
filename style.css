@@ -3,4 +3,11 @@
 }
 .heading1 {
     background-color: #d89400;
+    border-color: black;
+    border-radius: 30px;
+    border-style: solid;
+    border-bottom-width: 11px;
+    margin: 30px;
+    margin-right: 160px;
+    margin-left: 160px;
 }
