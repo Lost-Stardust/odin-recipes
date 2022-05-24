@@ -1,0 +1,29 @@
+#top {
+    text-align: center;
+    background-color: #f8ed50;
+    border-color: black;
+    border-radius: 600px;
+    border-style: solid;
+    border-bottom-width: 11px;
+    margin: 30px;
+    margin-right: 160px;
+    margin-left: 160px;
+    font-size: xx-large;
+    padding: 27px;
+}
+.img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 250px;
+    height: auto;
+}
+.returnh, .returnt {
+    text-align: center;
+}
+.p1, .p2 {
+    margin-right: 150px;
+}
+* {
+    font-family: sans-serif;
+}
