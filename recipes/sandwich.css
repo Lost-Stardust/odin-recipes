@@ -1,0 +1,20 @@
+#top {
+    text-align: center;
+    background-color: #d87e43;
+    border-color: black;
+    border-radius: 600px;
+    border-style: solid;
+    border-bottom-width: 11px;
+    margin: 30px;
+    margin-right: 160px;
+    margin-left: 160px;
+    font-size: large;
+    padding: 45px;
+}
+.img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    height: auto;
+}
