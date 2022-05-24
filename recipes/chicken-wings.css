@@ -14,4 +14,15 @@
     display: block;
     margin-right: auto;
     margin-left: auto;
+    width: 400px;
+    height: auto;
+}
+.returnh, .returnt {
+    text-align: center;
+}
+.p1, .p2 {
+    margin-right: 150px;
+}
+* {
+    font-family: sans-serif;
 }
