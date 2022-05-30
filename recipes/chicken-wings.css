@@ -1,6 +1,6 @@
 #top {
     text-align: center;
-    background-color: #eb4630;
+    background-color: #c06289;
     border-color: black;
     border-radius: 600px;
     border-style: solid;
@@ -16,12 +16,18 @@
     margin-left: auto;
     width: 400px;
     height: auto;
+    border-radius: 15px;
 }
 .returnh, .returnt {
     text-align: center;
 }
 .p1, .p2 {
     margin-right: 150px;
+    background-color: #d87ba2;
+    padding: 20px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-left: solid black 5px
 }
 * {
     font-family: sans-serif;
